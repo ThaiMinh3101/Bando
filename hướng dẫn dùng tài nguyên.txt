@@ -1,0 +1,11 @@
+BGM — Background Music (Nhạc nền):
+Nhạc nền chính phát xuyên suốt trong game
+
+BGS — Background Sound (Âm thanh nền môi trường)
+Âm thanh môi trường xung quanh, dùng để tăng tính chân thực cho khung cảnh mà người chơi đang đứng.
+
+ME — Musical Effect (Hiệu ứng âm nhạc / Khúc nhạc ngắn)
+Những đoạn nhạc ngắn
+
+SE — Sound Effect (Hiệu ứng âm thanh hành động)
+Các âm thanh ngắn, dùng cho các thao tác và tương tác trong game. Ví dụ: tiếng kiếm chém, tiếng phép thuật tung ra, tiếng bước chân nhân vật, tiếng mở cửa, tiếng nhặt vật phẩm, tiếng bấm chọn menu, hoặc tiếng quái vật gầm/trúng đòn.
