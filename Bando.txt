@@ -3,13 +3,14 @@ Vùng đất Bando (tách biệt hoàn toàn với thế giới thường)
 
 
 Cốt truyện:
-Boyel vô tình lạc vào Ảo Mộng Giới (tên là Bando), chắc biết từ bao giờ cậu đã ngủ thiếp đi trên ngọn đồi xanh rìa rừng và gặp gỡ 1 cô gái kì lạ.
+Boyel vô tình lạc vào Bando, chắc biết từ bao giờ cậu đã ngủ thiếp đi trên ngọn đồi xanh rìa rừng và gặp gỡ 1 cô gái kì lạ.
 Cô ấy tên là Kaede, là người đang trên đường dạo vào rừng tìm ít trái cây để làm bữa tráng miệng cho trưa nay thì bắt gặp Boyel, cậu đã được đánh thức bởi cô ấy.
 Cô ấy có vẻ chỉ đơn giản là 1 cô gái đầy năng lượng tiện đường nhắc bạn cẩn thận nếu ngủ ngon lành như vậy có thể sẽ bị thú dữ tấn công.
 Cô ấy khá tốt đấy chứ! cậu đã nghĩ vậy. Sau khi tỉnh lại thứ bạn nhớ được chỉ là tên mình, mọi thứ xung quanh khá xa lạ. 
 Loay hoay khi không biết làm gì tiếp theo Boyel quyết định 
 1. Bám theo cô gái tên Kaede ấy vì có vẻ cô ấy trông khá đáng tin, và còn thông thạo chỗ này hơn mình. Gặp lại và nói chuyện với cô ấy cô ấy sẽ cho Boyel ít vật phẩm đồng thời chỉ cậu đường về làng của cô
 2. Men theo con đường mòn dẫn băng qua 1 nơi trông có vẻ như là 1 trang trại. Đi hết con đường Boyel đến được 1 ngôi làng tên là Làng Sự Thật
+
 
 
 
@@ -59,14 +60,16 @@ Vậy thôi mình còn việc phải làm nữa, mình đi trước đây.
 . Cậu bé trên chuyến phiêu lưu đến các vùng đất kỳ lạ của mình
 	+ kết thúc mỗi vùng đất, cậu sẽ thu thập được “Torch Of Memory” (sẽ mở khoá đoạn backstory)
 	+ Mỗi Torch Of Memory sẽ thả hint để ghép lại 1 câu chuyện hoàn chỉnh
-. Ở Bando tiền tệ sẽ là Kẹo
-. Kẹo là kết tinh của quá trình chuyển hoá đào thải Tạp Chất Linh Hồn (kết tinh ánh sáng của 1 linh hồn đã chấp nhận).
-. Tạp Chất Linh Hồn là bản chất của Bando, khi 1 người ở lại thế giới quá lâu (linh hồn) họ sẽ bị ảnh hưởng bởi Bando và tích tụ Tạp Chất, Tạp Chất càng nhiều tỉ lệ thuận với thanh Sanity tăng. Cư dân của Bando là những linh hồn còn mang chấp niệm, họ dùng Kẹo để giữ sự tỉnh táo.
-. Khi Sanity đạt 100 họ sẽ bị Bando đồng hoá thành quái vật. Đánh bại quái vật ở Bando cũng sẽ cho người chơi vật phẩm Kẹo. Quái vật đó từng là 1 linh hồn như các cư dân Bando, việc bị đánh bại không có nghĩa linh hồn đó sẽ chết hẵn, đánh quái chỉ là 1 hình thức cạo đi bớt lớp vỏ tạp chất đã ăn quá sâu vào linh hồn họ (tương đương 1 hành động đánh thức sự tỉnh táo, việc này sẽ kết tinh ra Kẹo). Khi bị đánh bại linh hồn đó sẽ hiện diện thành 1 loài quái yếu hơn hoặc họ sẽ trở về hình dáng bình thường.
+. Ở Bando tiền tệ sẽ là Kẹo. Sen (mức độ điên loạn) sẽ tăng khi chọn các option Đ̴̝̳͒̈́i̶̖̍̂ê̶̝͑n̴̻͋̎ ̵̝̏̽l̷̥̏̒o̵̖̚ạ̵̼̎ń̴̯͝, ngược lại Sen giảm khi chọn điều tốt
+. Kẹo là kết tinh của quá trình chuyển hoá đào thải Tạp Chất Linh Hồn (thành phẩm của 1 linh hồn đã chấp nhận).
+. Tạp Chất Linh Hồn là bản chất của Bando, khi 1 người ở lại thế giới quá lâu (linh hồn) họ sẽ bị ảnh hưởng bởi Bando và tích tụ Tạp Chất, Tạp Chất càng nhiều tỉ lệ thuận với thanh Sen tăng. Cư dân của Bando là những linh hồn còn mang chấp niệm, họ dùng Kẹo để giữ sự tỉnh táo.
+. Khi Sen đạt 100 họ sẽ bị Bando đồng hoá thành quái vật. Đánh bại quái vật ở Bando cũng sẽ cho người chơi vật phẩm Kẹo. Quái vật đó từng là 1 linh hồn như các cư dân Bando, việc bị đánh bại không có nghĩa linh hồn đó sẽ chết hẵn, đánh quái chỉ là 1 hình thức cạo đi bớt lớp vỏ tạp chất đã ăn quá sâu vào linh hồn họ (tương đương 1 hành động đánh thức sự tỉnh táo, việc này sẽ kết tinh ra Kẹo). Khi bị đánh bại linh hồn đó sẽ hiện diện thành 1 loài quái yếu hơn hoặc họ sẽ trở về hình dáng bình thường.
 . Việc tiêu diệt 1 cư dân Bando bình thường không giúp họ rời khỏi được Bando. Chỉ khi Linh Hồn đó học được thứ mình cần học
-. Ở Bando cậu sẽ đi trên 1 tuyến truyện nhiều cái kết và game sẽ là 1 vòng lặp dựa theo nhiều lần chơi khác nhau, tất cả các cái kết đều sẽ khiến vòng lặp reset.  Chỉ khi cậu đạt được True Ending thì sẽ kết thúc hành trình tại Bando (khi cậu biết CHẤP NHẬN thực tại)
-. Game sẽ có cơ chế đếm ngày: day 1, day 2,... Khi chơi hết ngày 10 (ngày cuối cùng) game sẽ được reset về ngày 1. Sau reset tuỳ thuộc vào quá trình chơi dựa trên mức Sanity người chơi sẽ thấy ngôi làng vẫn tươi sáng (những người bạn biến mất dần vì họ đã hoàn thành điều dang dở) hay đã đổ nát (những người bạn biến mất và họ đã trở thành quái vật vì Tạp Chất Linh Hồn)
-. Những người bạn (linh hồn) không có thật của cậu dần sẽ rời đi đó là True Ending
+. Ở Bando cậu sẽ đi trên 1 tuyến truyện nhiều cái kết và game không có True Ending.
+. Game sẽ có cơ chế đếm ngày: day 1, day 2,... sau mỗi lần về quán trọ nghỉ ngơi.
+. Mỗi ngày sẽ có các nhiệm vụ với các nhân vật, tuỳ thuộc việc ta có làm hay không thì ngay ngày hôm sau nhân vật đó sẽ có 1 diễn biến khác
+. Dựa vào mức Sen người chơi sẽ thấy game vẫn tươi sáng hay đã điên loạn SAU MỖI LẦN CHƠI LẠI (chạm vào cái kết)
+. Những người bạn (linh hồn) không có thật của cậu dần sẽ rời đi
 
 
 - Thứ mà ngọt đuốc của ký ức hé lộ:
