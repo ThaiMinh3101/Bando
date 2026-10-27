@@ -1,7 +1,8 @@
 —(Minh)—
-Nơi trú ẩn của những điều bị lãng quên (Bando)
+Vùng đất Bando (tách biệt hoàn toàn với thế giới thường)
 
 Cốt truyện:
+
 
 
 - Bối cảnh:
@@ -17,16 +18,22 @@ Cốt truyện:
 . Boyel ngây thơ luôn tin rằng các câu chuyện cổ tích, rằng các thế giới đầy nhiệm màu, rằng các cư dân kì lạ sinh sống đâu đó ngoài kia sẽ có 1 con đường hay cánh cổng dẫn đến
 . Rằng cậu 1 ngày nào đó đi đến và để lại dấu ấn trở thành 1 phần trong tất cả các câu chuyện đó
 
-- Mạch game:
-. Cậu bé trên chuyến phiêu lưu đến các vùng đất kỳ lạ của mình
-	+ kết thúc mỗi vùng đất, cậu sẽ thu thập được “Torch Of Memory” (sẽ mở khoá đoạn hội thoại hoặc cut scene có thoại kèm phụ đề)
-	+ Mỗi Torch Of Memory sẽ thả hint để ghép lại 1 câu chuyện hoàn chỉnh
-. Ở Bando cậu sẽ đi trên 1 tuyến truyện nhiều cái kết và game sẽ là 1 vòng lặp dựa theo nhiều lần chơi khác nhau, tất cả các cái kết đều sẽ khiến vòng lặp reset.  Chỉ khi cậu đạt được True Ending thì sẽ kết thúc hành trình tại Bando (khi cậu biết CHẤP NHẬN thực tại, rằng cậu đã đi sai đường, cậu đã sống 1 cuộc đời sai trái)
-. 
-. Những người bạn (linh hồn) không có thật của cậu dần sẽ rời đi
-. 1 Bad Ending mới là True ending thật sự
 
-- Thứ mà ngọt đuốc của ký ức hé lộ
+- Về game:
+. Cậu bé trên chuyến phiêu lưu đến các vùng đất kỳ lạ của mình
+	+ kết thúc mỗi vùng đất, cậu sẽ thu thập được “Torch Of Memory” (sẽ mở khoá đoạn backstory)
+	+ Mỗi Torch Of Memory sẽ thả hint để ghép lại 1 câu chuyện hoàn chỉnh
+. Ở Bando tiền tệ sẽ là Kẹo
+. Kẹo là kết tinh của quá trình chuyển hoá đào thải Tạp Chất Linh Hồn (kết tinh ánh sáng của 1 linh hồn đã chấp nhận).
+. Tạp Chất Linh Hồn là bản chất của Bando, khi 1 người ở lại thế giới quá lâu (linh hồn) họ sẽ bị ảnh hưởng bởi Bando và tích tụ Tạp Chất, Tạp Chất càng nhiều tỉ lệ thuận với thanh Sanity tăng. Cư dân của Bando là những linh hồn còn mang chấp niệm, họ dùng Kẹo để giữ sự tỉnh táo.
+. Khi Sanity đạt 100 họ sẽ bị Bando đồng hoá thành quái vật. Đánh bại quái vật ở Bando cũng sẽ cho người chơi vật phẩm Kẹo. Quái vật đó từng là 1 linh hồn như các cư dân Bando, việc bị đánh bại không có nghĩa linh hồn đó sẽ chết hẵn, đánh quái chỉ là 1 hình thức cạo đi bớt lớp vỏ tạp chất đã ăn quá sâu vào linh hồn họ (tương đương 1 hành động đánh thức sự tỉnh táo, việc này sẽ kết tinh ra Kẹo). Khi bị đánh bại linh hồn đó sẽ hiện diện thành 1 loài quái yếu hơn hoặc họ sẽ trở về hình dáng bình thường.
+. Việc tiêu diệt 1 cư dân Bando bình thường không giúp họ rời khỏi được Bando. Chỉ khi Linh Hồn đó học được thứ mình cần học
+. Ở Bando cậu sẽ đi trên 1 tuyến truyện nhiều cái kết và game sẽ là 1 vòng lặp dựa theo nhiều lần chơi khác nhau, tất cả các cái kết đều sẽ khiến vòng lặp reset.  Chỉ khi cậu đạt được True Ending thì sẽ kết thúc hành trình tại Bando (khi cậu biết CHẤP NHẬN thực tại)
+. Game sẽ có cơ chế đếm ngày: day 1, day 2,... Khi chơi hết ngày 10 (ngày cuối cùng) game sẽ được reset về ngày 1. Sau reset tuỳ thuộc vào quá trình chơi dựa trên mức Sanity người chơi sẽ thấy ngôi làng vẫn tươi sáng (những người bạn biến mất dần vì họ đã hoàn thành điều dang dở) hay đã đổ nát (những người bạn biến mất và họ đã trở thành quái vật vì Tạp Chất Linh Hồn)
+. Những người bạn (linh hồn) không có thật của cậu dần sẽ rời đi đó là True Ending
+
+
+- Thứ mà ngọt đuốc của ký ức hé lộ:
 . Không như cậu nghĩ, thế giới này không kỳ thú như cậu mong đợi, năm cấp 2 cậu bị bạn bè chế nhạo có lẽ vì các câu chuyện hoang đường mà cậu tin vào (hoặc đại khái là chunnybyou) nó tiếp diễn cho đến hết thời học sinh
 . Thoáng chốc cậu giờ đã thành 1 người lớn, xoay quanh bởi vóng xoáy cơm áo gạo tiền, cậu làm tê liệt mình bằng rượu và thuộc lá để quên đi cái xã hội cay nghiệt này
 . Dần dần cậu xa cách với gia đình
@@ -37,7 +44,7 @@ Cốt truyện:
 
 - Thứ cần truyền đạt
 . Giữ lại 1 chút mơ mộng, ảo tưởng âu cũng chỉ vì ta không muốn đánh mất “chính mình” trong 1 xã hội đầy ích kỷ, soi xét. 1 xã hội mà ta vẫn luôn tự hào gọi rằng “Thế giới của người lớn”
-. Dẫu sao người lớn cũng đều từng là con nít, xã hội bộn bề đã gián tiếp giết chết “đứa trẻ” ấy hay ta đã quá nhu nhược để không nhận ra điều đó rồi chỉ sống vì ánh nhìn của người khác? . Liệu chúng ta đã trở thành 1 người lớn “khuôn mẫu”
+. Dẫu sao người lớn cũng đều từng là con nít, xã hội bộn bề đã gián tiếp giết chết “đứa trẻ” ấy hay ta đã quá nhu nhược để không nhận ra điều đó, rồi chỉ sống vì ánh nhìn của người khác? . Liệu chúng ta đã trở thành 1 người lớn “khuôn mẫu”
 . Chọn ở lại vòng lặp để mong 1 hạnh phúc mãi mãi không phải là lựa chọn đúng (các linh hồn bạn bè rồi sẽ rời đi, để lại nổi đau lớn) suy cho cùng nếu cuộc sống được lấy đầy bởi những tia sáng  thì đâu là ý nghĩa của sự tồn tại
 . Những ký ức dù đau thương, nhưng lại là minh chứng cho việc ta đã sống, và là cơ may giúp ta hiểu được những gì bản thân cần thay đổi, phải làm khác đi. Dù cho có bị vùi dập và đánh mất đi tất cả, nhưng chính vì sợ mất mát nên ta càng hiểu rõ được điều gì mới là giá trị
 
