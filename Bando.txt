@@ -49,14 +49,14 @@ Vậy thôi mình còn việc phải làm nữa, mình đi trước đây.
 . Vùng đất 1: đi qua cung đường nào đó để đến
 . Vùng đất 2: băng qua bãi biển xác tàu chết để đến được
 
-- Dẫn chuyện:
+- Dẫn chuyện (không nhất thiết kể vào game):
 . Boyel ngày bé đã từng nghĩ, nếu nhìn vào các vì sao và ước, thì điều ước của mình sẽ chạm được đến từng ngóc ngách trong vũ trụ
 . Boyel từng sợ hãi nghĩ rằng có 1 con quái vật luôn sống dưới gầm giường của cậu
 . Boyel ngây thơ luôn tin rằng các câu chuyện cổ tích, rằng các thế giới đầy nhiệm màu, rằng các cư dân kì lạ sinh sống đâu đó ngoài kia sẽ có 1 con đường hay cánh cổng dẫn đến
 . Rằng cậu 1 ngày nào đó đi đến và để lại dấu ấn trở thành 1 phần trong tất cả các câu chuyện đó
 
 
-- Về game:
+- Về game và World Building:
 . Cậu bé trên chuyến phiêu lưu đến các vùng đất kỳ lạ của mình
 	+ kết thúc mỗi vùng đất, cậu sẽ thu thập được “Torch Of Memory” (sẽ mở khoá đoạn backstory)
 	+ Mỗi Torch Of Memory sẽ thả hint để ghép lại 1 câu chuyện hoàn chỉnh
